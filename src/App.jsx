@@ -1,6 +1,8 @@
 import Banner from "./Components/Banner";
 import Header from "./Components/Header";
 import OurRecipe from "./Components/OurRecipe";
+import Recipes from "./Components/Recipes";
+import Sidebar from "./Components/Sidebar";
 
 export default function App() {
   return (
@@ -11,6 +13,13 @@ export default function App() {
       <Banner></Banner>
       {/* Our Recipe Section */}
       <OurRecipe></OurRecipe>
+      {/* recipe cards section */}
+      <section className="flex flex-col md:flex-row gap-6 ">
+        {/* cards section */}
+        <Recipes></Recipes>
+        {/* side bar */}
+        <Sidebar></Sidebar>
+      </section>
     </div>
   )
 }
