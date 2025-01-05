@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co.com/1XjKnrB/Spaghetti-Carbonara.jpg",
+      "short_description": "Classic Italian pasta dish with creamy sauce, pancetta, and Parmesan.",
+      "ingredients": ["Spaghetti", "Eggs", "Pancetta", "Parmesan cheese", "Garlic", "Black pepper"],
+      "preparing_time": 25,
+      "calories": 420
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Tikka Masala",
+      "recipe_image": "https://i.ibb.co.com/wg2k0zy/Chicken-Tikka-Masala.jpg",
+      "short_description": "Popular Indian curry made with marinated chicken and creamy tomato sauce.",
+      "ingredients": ["Chicken breast", "Yogurt", "Garlic", "Ginger", "Tomatoes", "Cream", "Spices"],
+      "preparing_time": 50,
+      "calories": 560
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Caesar Salad",
+      "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/caesar-salad.jpg",
+      "short_description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan.",
+      "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing", "Lemon juice"],
+      "preparing_time": 15,
+      "calories": 180
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Margherita Pizza",
+      "recipe_image": "https://i.ibb.co.com/9bwDH14/pizza.jpg",
+      "short_description": "Traditional pizza with fresh tomatoes, mozzarella, and basil.",
+      "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella", "Basil", "Olive oil"],
+      "preparing_time": 30,
+      "calories": 270
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Avocado Toast",
+      "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/avocado-toast.jpg",
+      "short_description": "Simple and delicious toast with mashed avocado, salt, and lemon.",
+      "ingredients": ["Bread", "Avocado", "Salt", "Lemon juice", "Pepper"],
+      "preparing_time": 10,
+      "calories": 150
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/chocolate-chip-cookies.jpg",
+      "short_description": "Soft and chewy cookies loaded with chocolate chips.",
+      "ingredients": ["Flour", "Butter", "Sugar", "Brown sugar", "Eggs", "Chocolate chips", "Vanilla extract"],
+      "preparing_time": 30,
+      "calories": 200
+    }
+  ]
+  
